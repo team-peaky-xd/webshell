@@ -21,10 +21,13 @@ Webshells are scripts that can be uploaded to a web server to enable remote admi
 The repository includes webshells in the following languages:
 
 - PHP
-- ASP
+- Perl 
+- Java
+- Classic ASP
+- ASP.NET
+- ColdFusion
 - JSP
-- Perl
-
+- C
 ## How to Contribute
 
 We welcome contributions! If you have a webshell script in a language not listed above or improvements to existing scripts, please follow these steps:
