@@ -1,6 +1,5 @@
 # Webshell Collection
 
-[![Total Views](https://img.shields.io/github/views/team-peaky-xd/webshell.svg)](https://github.com/team-peaky-xd/webshell)
 [![Total Stars](https://img.shields.io/github/stars/team-peaky-xd/webshell.svg)](https://github.com/team-peaky-xd/webshell/stargazers)
 
 This repository contains a collection of webshells written in various programming languages, collected from various sources.
