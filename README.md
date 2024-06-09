@@ -21,7 +21,6 @@ Webshells are scripts that can be uploaded to a web server to enable remote admi
 The repository includes webshells in the following languages:
 
 - PHP
-- Python
 - ASP
 - JSP
 - Perl
